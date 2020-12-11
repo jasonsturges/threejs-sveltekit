@@ -1,5 +1,5 @@
 {
-  "name": "svelte-app",
+  "name": "threejs-svelte-boilerplate",
   "version": "1.0.0",
   "scripts": {
     "build": "rollup -c",
