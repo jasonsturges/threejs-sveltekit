@@ -1,8 +1,15 @@
 # 3D with Svelte and Three.js
 
-This project template incorporates [Svelte](https://svelte.dev) with [Three.js](https://threejs.org/).
+Project template incorporating [Svelte](https://svelte.dev) with [Three.js](https://threejs.org/).
 
-![screencapture](https://user-images.githubusercontent.com/1213591/188254873-82f8786d-e3cb-421c-8cb8-27462481fc85.gif))
+![screencapture](https://user-images.githubusercontent.com/1213591/188254873-82f8786d-e3cb-421c-8cb8-27462481fc85.gif)
+
+This project includes:
+- [Svelte](https://svelte.dev)
+- [SvelteKit](https://kit.svelte.dev/)
+- [Three.js](https://threejs.org/)
+- [Vite](https://vitejs.dev/)
+
 
 ## Developing
 
