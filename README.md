@@ -1,18 +1,8 @@
-# create-svelte
+# 3D with Svelte and Three.js
 
-Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/master/packages/create-svelte).
+This project template incorporates [Svelte](https://svelte.dev) with [Three.js](https://threejs.org/).
 
-## Creating a project
-
-If you're seeing this, you've probably already done this step. Congrats!
-
-```bash
-# create a new project in the current directory
-npm create svelte@latest
-
-# create a new project in my-app
-npm create svelte@latest my-app
-```
+![screencapture](https://user-images.githubusercontent.com/1213591/188254873-82f8786d-e3cb-421c-8cb8-27462481fc85.gif))
 
 ## Developing
 
