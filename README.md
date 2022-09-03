@@ -2,20 +2,27 @@
 
 This project template incorporates [Svelte](https://svelte.dev) with [Three.js](https://threejs.org/).
 
-![screencapture](https://miro.medium.com/max/1400/1*OhkYMKUbIXkAHhcG7yFLJg.gif)
+![screencapture](https://user-images.githubusercontent.com/1213591/188254873-82f8786d-e3cb-421c-8cb8-27462481fc85.gif))
 
-## Get started
+## Developing
 
-Install the dependencies...
-
-```bash
-npm install
-```
-
-...then start [Rollup](https://rollupjs.org):
+Once you've created a project and installed dependencies with `npm install` (or `pnpm install` or `yarn`), start a development server:
 
 ```bash
 npm run dev
+
+# or start the server and open the app in a new browser tab
+npm run dev -- --open
 ```
 
-Navigate to [localhost:5000](http://localhost:5000). You should see your app running.
+## Building
+
+To create a production version of your app:
+
+```bash
+npm run build
+```
+
+You can preview the production build with `npm run preview`.
+
+> To deploy your app, you may need to install an [adapter](https://kit.svelte.dev/docs/adapters) for your target environment.
