@@ -1,12 +1,12 @@
 {
-	"name": "threejs-svelte-boilerplate",
-	"version": "1.1.0",
+	"name": "threejs-sveltekit",
+	"version": "1.0.0",
 	"description": "Three.js example app built with Svelte",
 	"author": "Jason Sturges <jason@jsonsturges.com> (https://jasonsturges.com)",
-	"homepage": "https://jasonsturges.github.io//threejs-svelte-boilerplate/",
+	"homepage": "https://jasonsturges.github.io//threejs-sveltekit/",
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/jasonsturges/threejs-svelte-boilerplate"
+		"url": "https://github.com/jasonsturges/threejs-sveltekit"
 	},
 	"license": "ISC",
 	"keywords": [
