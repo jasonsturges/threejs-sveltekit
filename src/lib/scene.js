@@ -9,6 +9,11 @@ let renderer;
 scene.add(cube);
 camera.position.z = 5;
 
+// Add lighting
+const light = new THREE.DirectionalLight(0xffffff, 1);
+light.position.set(0, 0, 100);
+scene.add(light);
+
 const animate = () => {
 	requestAnimationFrame(animate);
 	cube.rotation.x += 0.01;
