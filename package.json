@@ -27,13 +27,14 @@
 		"format": "prettier --write ."
 	},
 	"dependencies": {
-		"three": "^0.144.0"
+		"three": "^0.155.0"
 	},
 	"devDependencies": {
 		"@sveltejs/adapter-auto": "next",
 		"@sveltejs/kit": "next",
 		"@typescript-eslint/eslint-plugin": "^5.27.0",
 		"@typescript-eslint/parser": "^5.27.0",
+    "@types/three": "^0.155.0",
 		"eslint": "^8.16.0",
 		"eslint-config-prettier": "^8.3.0",
 		"eslint-plugin-svelte3": "^4.0.0",
